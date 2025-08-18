@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohith</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&pause=600&color=00BFFF&center=true&vCenter=true&width=1200&lines=%F0%9F%9A%80+An+Aspiring+Software+Engineer+%7C+Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**rohiths08/rohiths08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me  
+- 🌱 I’m currently sharpening my **Data Structures & Algorithms (C, C++)** and diving deeper into **Web Development**  
+- 💡 Exploring **AI and Blockchain**  
+- 👯 I’m looking to collaborate on **Open Source Projects & Tech Communities**  
+- 📚 Passionate about **teaching, learning, and building impactful projects**  
+- ⚡ Fun fact: *I debug more than I code, but that’s where the magic happens* ✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:leetcode https://leetcode.com/XoI4tQzF6g...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+### 🚀 Languages
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c&theme=light" width="40" /><br><b>C</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="40" /><br><b>C++</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java&theme=light" width="40" /><br><b>Java</b>
+    </td>
+   
+  </tr>
+</table>
+
+### 🌐 Web Development
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html&theme=light" width="40" /><br><b>HTML</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css&theme=light" width="40" /><br><b>CSS</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js&theme=light" width="40" /><br><b>JavaScript</b>
+    </td>
+     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts&theme=light" width="40" /><br><b>TypeScript</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react&theme=light" width="40" /><br><b>React</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="40" /><br><b>Node.js</b>
+    </td>
+  </tr>
+</table>
+
+### ⚡ Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="40" /><br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" /><br><b>GitHub</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="40" /><br><b>VS Code</b>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohiths08&show_icons=true&theme=tokyonight" alt="stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiths08&layout=compact&theme=tokyonight" alt="top langs" height="170" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohiths08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rohiths2005s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [Rohith](https://github.com/rohiths08)
