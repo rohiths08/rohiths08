@@ -5,7 +5,13 @@
   </a>
 </p>
 
+
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=rohiths08&label=Profile%20Views&color=0e75b6&style=flat)  
+[![GitHub followers](https://img.shields.io/github/followers/rohiths08?style=social)](https://github.com/rohiths08)  
+
+
 
 ## 🙋‍♂️ About Me  
 - 🌱 I’m currently sharpening my **Data Structures & Algorithms (C, C++)** and diving deeper into **Web Development**  
@@ -57,6 +63,23 @@
     </td>
   </tr>
 </table>
+
+### 🗄️ Databases
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="40" /><br><b>MySQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40" /><br><b>MongoDB</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="40" /><br><b>PostgreSQL</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ### ⚡ Tools & Platforms
 <table>
