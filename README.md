@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me  
 - 🌱 I’m currently sharpening my **Data Structures & Algorithms (C, C++)** and diving deeper into **Web Development**  
-- 💡 Exploring **AI and Blockchain**  
+- 💡 Exploring **AI**  
 - 👯 I’m looking to collaborate on **Open Source Projects & Tech Communities**  
 - 📚 Passionate about **teaching, learning, and building impactful projects**  
 - ⚡ Fun fact: *I debug more than I code, but that’s where the magic happens* ✨  
