@@ -122,8 +122,9 @@
 </p>
 
 ---
-
-<img src="https://ghchart.rshah.org/409ba5/rohiths08" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohiths08&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
