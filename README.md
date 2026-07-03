@@ -111,7 +111,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://ghchart.rshah.org/rohiths08" />
 </p>
 
 
@@ -119,12 +119,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohiths08&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohiths08&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
