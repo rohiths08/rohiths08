@@ -122,10 +122,7 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
+<img src="https://ghchart.rshah.org/rohiths08" />
 ---
 
 ## 🌐 Connect With Me  
