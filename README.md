@@ -111,7 +111,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/rohiths08" />
+  <img src="https://ghchart.rshah.org/0e4429/rohiths08" />
 </p>
 
 
