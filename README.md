@@ -96,6 +96,7 @@
   </tr>
 </table>
 
+---
 
 ## 📈 GitHub Stats
 
@@ -110,6 +111,8 @@
     height="170"
   />
 </p>
+
+---
 
 ## 🌐 Connect With Me  
 
