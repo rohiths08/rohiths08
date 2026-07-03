@@ -122,8 +122,9 @@
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/github-metrics.svg">
+<p align="center">
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/github-metrics.svg"/>
+</p>
 
 ---
 
