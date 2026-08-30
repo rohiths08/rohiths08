@@ -33,9 +33,7 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="40" /><br><b>C++</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=java&theme=light" width="40" /><br><b>Java</b>
-    </td>
+
    
   </tr>
 </table>
